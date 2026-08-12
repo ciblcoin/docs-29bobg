@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-kqyz5d.salamcuanwin.sbs/sitemap.xml
